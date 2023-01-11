@@ -1,2 +1,3 @@
-# ml-workshop-2023
-This repository contains all the reference materials for ML/DL workshops.
+# Data Science Student Society - Machine Learning & Deep Learning Workshop 
+
+This repository contains all the reference materials for ML/DL workshops. 
