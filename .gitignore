@@ -3,10 +3,15 @@
 
 ### MacOS ###
 .DS_Store
+_DS_store
 
 ### Datafiles ###
 *.csv
 *.data
+*.jpg
+
+### Folders ###
+cat-n-dog/
 
 
 ### JupyterNotebooks ###
@@ -189,3 +194,10 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
 .DS_Store
+*.gz
+notebook/introduction-to-ml/MNIST/MNIST/raw/t10k-images-idx3-ubyte
+notebook/introduction-to-ml/MNIST/MNIST/raw/t10k-labels-idx1-ubyte
+notebook/introduction-to-ml/MNIST/MNIST/raw/train-images-idx3-ubyte
+notebook/introduction-to-ml/MNIST/MNIST/raw/train-labels-idx1-ubyte
+notebook/introduction-to-ml/cat-n-dog.zip
+notebook/introduction-to-ml/cat-n-dog(small).zip
